@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Game Development Jobs — 2026
 
-<sub><small>Last updated: Oct 12, 2026 at 21:16 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2026 at 19:14 UTC</small></sub>
 
 Daily game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs).
@@ -12,6 +12,10 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-director-data-engineering-player-lifecycle-and-personalization-72ccaa6c?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Director, Data Engineering – Player Lifecycle & Personalization](https://jobsingames.com/jobs/riot-games-director-data-engineering-player-lifecycle-and-personalization-72ccaa6c?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 12 |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-principal-software-engineer-engine-and-tools-league-of-legends-c89f7aa6?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Principal Software Engineer, Engine & Tools - League of Legends](https://jobsingames.com/jobs/riot-games-principal-software-engineer-engine-and-tools-league-of-legends-c89f7aa6?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 12 |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-principal-3d-environment-artist-unpublished-r-and-d-product-2c18bb4c?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Principal 3D Environment Artist - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-principal-3d-environment-artist-unpublished-r-and-d-product-2c18bb4c?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 12 |
+| **[Zynga](https://jobsingames.com/jobs/zynga-software-engineer-unannounced-project-2a6c7099?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Software Engineer - Unannounced Project](https://jobsingames.com/jobs/zynga-software-engineer-unannounced-project-2a6c7099?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | London, UK | On Site | Full Time | Oct 12 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-playable-ads-developer-e7c6c13e?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Playable Ads Developer](https://jobsingames.com/jobs/scopely-playable-ads-developer-e7c6c13e?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | IN - Bangalore, India | On Site | Full Time | Oct 12 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-lead-ux-designer-star-trek-fleet-command-f472aec9?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Lead UX Designer - Star Trek Fleet Command](https://jobsingames.com/jobs/scopely-lead-ux-designer-star-trek-fleet-command-f472aec9?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | ES - Spain | On Site | Full Time | Oct 12 |
 | **[Torpor Games](https://jobsingames.com/jobs/torpor-games-ui-ux-designer-22f38c4f?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[UI/UX Designer](https://jobsingames.com/jobs/torpor-games-ui-ux-designer-22f38c4f?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | Berlin, 12057, Germany | On Site | Full Time | Oct 10 |
@@ -58,10 +62,6 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[Scopely](https://jobsingames.com/jobs/scopely-senior-security-iam-engineer-2b9e1b3c?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Security IAM Engineer](https://jobsingames.com/jobs/scopely-senior-security-iam-engineer-2b9e1b3c?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Oct 8 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-it-support-coordinator-contract-076ffe06?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[IT Support Coordinator-Contract](https://jobsingames.com/jobs/playstation-it-support-coordinator-contract-076ffe06?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | United States, Bellevue, WA | On Site | Contract | Oct 7 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-combat-game-designer-84bc116c?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Combat Game Designer](https://jobsingames.com/jobs/scopely-combat-game-designer-84bc116c?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Oct 7 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-software-development-engineer-in-test-ii-a5137287?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Software Development Engineer in Test II](https://jobsingames.com/jobs/playstation-software-development-engineer-in-test-ii-a5137287?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | United States, San Mateo, CA | On Site | Full Time | Oct 7 |
-| **[Scopely](https://jobsingames.com/jobs/scopely-associate-economy-game-designer-559ecba8?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Associate Economy Game Designer](https://jobsingames.com/jobs/scopely-associate-economy-game-designer-559ecba8?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Oct 7 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-people-technology-analyst-33b01ea2?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior People Technology Analyst](https://jobsingames.com/jobs/playstation-senior-people-technology-analyst-33b01ea2?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | United Kingdom, London | On Site | Full Time | Oct 7 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-esports-admin-and-sponsorship-account-executive-12-month-contract-7d83cf7a?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Esports Admin and Sponsorship Account Executive (12 Month Contract)](https://jobsingames.com/jobs/riot-games-esports-admin-and-sponsorship-account-executive-12-month-contract-7d83cf7a?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | Berlin, Germany | On Site | Contract | Oct 7 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-12 archive](archive/2026-10-12.md)
+- [2026-10-13 archive](archive/2026-10-13.md)
 
 ## About This Repository
 
