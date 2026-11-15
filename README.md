@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Game Development Jobs — 2026
 
-<sub><small>Last updated: Nov 14, 2026 at 17:58 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2026 at 18:47 UTC</small></sub>
 
 Daily game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs).
@@ -17,6 +17,7 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[PlayStation](https://jobsingames.com/jobs/playstation-manager-corporate-development-and-finance-c8fc2e4f?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Manager, Corporate Development & Finance](https://jobsingames.com/jobs/playstation-manager-corporate-development-and-finance-c8fc2e4f?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 14 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-principal-technical-designer-9a5b5723?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Principal Technical Designer](https://jobsingames.com/jobs/scopely-principal-technical-designer-9a5b5723?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | US - United States | On Site | Full Time | Nov 13 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-senior-technical-artist-unannounced-project-e7554640?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Technical Artist - Unannounced Project](https://jobsingames.com/jobs/scopely-senior-technical-artist-unannounced-project-e7554640?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 13 |
+| **[Scopely](https://jobsingames.com/jobs/scopely-senior-server-engineer-performance-4ac3fceb?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Server Engineer - Performance](https://jobsingames.com/jobs/scopely-senior-server-engineer-performance-4ac3fceb?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | GB - United Kingdom | On Site | Full Time | Nov 13 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-senior-server-engineer-performance-d9b74d79?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Server Engineer - Performance](https://jobsingames.com/jobs/scopely-senior-server-engineer-performance-d9b74d79?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 13 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-senior-server-engineer-performance-unannounced-project-c5b513a8?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Server Engineer - Performance - Unannounced Project](https://jobsingames.com/jobs/scopely-senior-server-engineer-performance-unannounced-project-c5b513a8?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | IE - Ireland | On Site | Full Time | Nov 13 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-senior-motion-designer-37e6b988?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Motion Designer](https://jobsingames.com/jobs/scopely-senior-motion-designer-37e6b988?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 13 |
@@ -61,16 +62,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[PlayStation](https://jobsingames.com/jobs/playstation-technical-account-manager-ii-5fb82b15?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Technical Account Manager II](https://jobsingames.com/jobs/playstation-technical-account-manager-ii-5fb82b15?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | United Kingdom, London | On Site | Full Time | Nov 10 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-manager-digital-distribution-1158ff06?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Manager, Digital Distribution](https://jobsingames.com/jobs/playstation-senior-manager-digital-distribution-1158ff06?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 10 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-sr-payroll-operations-specialist-e9b688c3?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Sr. Payroll Operations Specialist](https://jobsingames.com/jobs/playstation-sr-payroll-operations-specialist-e9b688c3?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | United States, Remote | Remote | Full Time | Nov 9 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-commercial-manager-bf6db97b?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Commercial Manager](https://jobsingames.com/jobs/playstation-commercial-manager-bf6db97b?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | United States, Remote | Remote | Full Time | Nov 9 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 7 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 2% remote | 7 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-14 archive](archive/2026-11-14.md)
+- [2026-11-15 archive](archive/2026-11-15.md)
 
 ## About This Repository
 
