@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Game Development Jobs — 2026
 
-<sub><small>Last updated: Nov 19, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2026 at 20:06 UTC</small></sub>
 
 Daily game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs).
@@ -12,6 +12,13 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Zynga](https://jobsingames.com/jobs/zynga-lead-producer-09d20a6e?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Lead Producer](https://jobsingames.com/jobs/zynga-lead-producer-09d20a6e?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | Bengaluru, India | On Site | Full Time | Nov 20 |
+| **[Scopely](https://jobsingames.com/jobs/scopely-senior-anticheat-engineer-8d15cf39?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Anticheat Engineer](https://jobsingames.com/jobs/scopely-senior-anticheat-engineer-8d15cf39?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | JP - Tokyo, Japan | On Site | Full Time | Nov 20 |
+| **[Discord](https://jobsingames.com/jobs/discord-account-executive-media-and-entertainment-eab3e706?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Account Executive, Media & Entertainment](https://jobsingames.com/jobs/discord-account-executive-media-and-entertainment-eab3e706?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | Los Angeles Metropolitan Area or New York City Metropolitan Area | On Site | Full Time | Nov 20 |
+| **[Scopely](https://jobsingames.com/jobs/scopely-staff-accountant-c2e724a8?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Staff Accountant](https://jobsingames.com/jobs/scopely-staff-accountant-c2e724a8?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | IN - Bangalore, India | On Site | Full Time | Nov 20 |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-asset-and-portfolio-manager-412db19d?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Asset & Portfolio Manager](https://jobsingames.com/jobs/riot-games-senior-asset-and-portfolio-manager-412db19d?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | Los Angeles, USA | On Site | Full Time | Nov 19 |
+| **[Epic Games](https://jobsingames.com/jobs/epic-games-principal-animator-3f4e610d?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Principal Animator](https://jobsingames.com/jobs/epic-games-principal-animator-3f4e610d?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | BLANK,BLANK,Multiple Locations | On Site | Full Time | Nov 19 |
+| **[2K](https://jobsingames.com/jobs/2k-senior-gameplay-audio-software-engineer-065735d2?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Gameplay Audio Software Engineer](https://jobsingames.com/jobs/2k-senior-gameplay-audio-software-engineer-065735d2?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | Vancouver, British Columbia, Canada | On Site | Full Time | Nov 19 |
 | **[Zynga](https://jobsingames.com/jobs/zynga-lead-senior-level-game-designer-d768226c?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Lead / Senior Level Game Designer](https://jobsingames.com/jobs/zynga-lead-senior-level-game-designer-d768226c?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | Bengaluru, India | On Site | Full Time | Nov 19 |
 | **[Zynga](https://jobsingames.com/jobs/zynga-architect-624aaf7b?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Architect](https://jobsingames.com/jobs/zynga-architect-624aaf7b?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | Bengaluru, India | On Site | Full Time | Nov 19 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-project-manager-workplace-experience-6b2ca6bc?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Project Manager, Workplace Experience](https://jobsingames.com/jobs/scopely-project-manager-workplace-experience-6b2ca6bc?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | JP - Tokyo, Japan | On Site | Full Time | Nov 19 |
@@ -55,22 +62,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[Scopely](https://jobsingames.com/jobs/scopely-principal-technical-designer-9a5b5723?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Principal Technical Designer](https://jobsingames.com/jobs/scopely-principal-technical-designer-9a5b5723?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | US - United States | On Site | Full Time | Nov 13 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-senior-technical-artist-unannounced-project-e7554640?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Technical Artist - Unannounced Project](https://jobsingames.com/jobs/scopely-senior-technical-artist-unannounced-project-e7554640?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 13 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-senior-server-engineer-performance-4ac3fceb?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Server Engineer - Performance](https://jobsingames.com/jobs/scopely-senior-server-engineer-performance-4ac3fceb?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | GB - United Kingdom | On Site | Full Time | Nov 13 |
-| **[Scopely](https://jobsingames.com/jobs/scopely-senior-server-engineer-performance-d9b74d79?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Server Engineer - Performance](https://jobsingames.com/jobs/scopely-senior-server-engineer-performance-d9b74d79?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 13 |
-| **[Scopely](https://jobsingames.com/jobs/scopely-senior-server-engineer-performance-unannounced-project-c5b513a8?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Server Engineer - Performance - Unannounced Project](https://jobsingames.com/jobs/scopely-senior-server-engineer-performance-unannounced-project-c5b513a8?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | IE - Ireland | On Site | Full Time | Nov 13 |
-| **[Scopely](https://jobsingames.com/jobs/scopely-senior-motion-designer-37e6b988?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Motion Designer](https://jobsingames.com/jobs/scopely-senior-motion-designer-37e6b988?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 13 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-manager-software-engineering-sre-site-lead-dublin-roc-c032a81d?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Manager, Software Engineering - SRE Site Lead: Dublin ROC](https://jobsingames.com/jobs/riot-games-manager-software-engineering-sre-site-lead-dublin-roc-c032a81d?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | Dublin, Ireland | On Site | Full Time | Nov 13 |
-| **[Scopely](https://jobsingames.com/jobs/scopely-lead-data-analyst-f8cb4d7f?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Lead Data Analyst](https://jobsingames.com/jobs/scopely-lead-data-analyst-f8cb4d7f?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 13 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-director-people-experience-americas-d514542e?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Senior Director, People Experience (Americas)](https://jobsingames.com/jobs/playstation-senior-director-people-experience-americas-d514542e?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 13 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-influencer-partnerships-manager-live-service-gaming-9a8efde7?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | **[Influencer Partnerships Manager (Live Service Gaming)](https://jobsingames.com/jobs/playstation-influencer-partnerships-manager-live-service-gaming-9a8efde7?utm_source=github&utm_medium=repo&utm_campaign=github-game-dev-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 6 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 0% remote | 8 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-19 archive](archive/2026-11-19.md)
+- [2026-11-20 archive](archive/2026-11-20.md)
 
 ## About This Repository
 
